@@ -1,0 +1,9 @@
+Merhaba,
+Bu projemde merakımdan dolayı bir uzaktan kumandalı aracın içindeki sistemini söküp kendi sistemimi koydum.
+İçerik olarak;
+
+
+İşlemci olarak bir Arduino MEGA kullanılmıştır.
+Haberleşme aracı olarak HC-06 Bluetooth modülü kullanılmıştır.
+Aracın kumandası olarak da, Bluetooth'u olan herhangi bir android cihaz kullanılabilir.
+Arduino, güç sağlayıcı olarak 11.1 V Li-Po pil ile beslenmiştir.
